@@ -1,13 +1,13 @@
 {
-  "main.css": "/Narender-Dhull/portfolio-app/static/css/main.6df1ce5f.chunk.css",
-  "main.js": "/Narender-Dhull/portfolio-app/static/js/main.64b0bdfe.chunk.js",
-  "main.js.map": "/Narender-Dhull/portfolio-app/static/js/main.64b0bdfe.chunk.js.map",
-  "runtime~main.js": "/Narender-Dhull/portfolio-app/static/js/runtime~main.407e3b1b.js",
-  "runtime~main.js.map": "/Narender-Dhull/portfolio-app/static/js/runtime~main.407e3b1b.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/Narender-Dhull/portfolio-app/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/Narender-Dhull/portfolio-app/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/Narender-Dhull/portfolio-app/index.html",
-  "precache-manifest.ef9382086812d17e1471b5c3ea4b3d19.js": "/Narender-Dhull/portfolio-app/precache-manifest.ef9382086812d17e1471b5c3ea4b3d19.js",
-  "service-worker.js": "/Narender-Dhull/portfolio-app/service-worker.js",
-  "static/css/main.6df1ce5f.chunk.css.map": "/Narender-Dhull/portfolio-app/static/css/main.6df1ce5f.chunk.css.map"
+  "main.css": "/portfolio-app/static/css/main.6df1ce5f.chunk.css",
+  "main.js": "/portfolio-app/static/js/main.1e12adef.chunk.js",
+  "main.js.map": "/portfolio-app/static/js/main.1e12adef.chunk.js.map",
+  "runtime~main.js": "/portfolio-app/static/js/runtime~main.eaeff955.js",
+  "runtime~main.js.map": "/portfolio-app/static/js/runtime~main.eaeff955.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/portfolio-app/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/portfolio-app/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/portfolio-app/index.html",
+  "precache-manifest.7a95eea60bd3d826de11002ed11d784a.js": "/portfolio-app/precache-manifest.7a95eea60bd3d826de11002ed11d784a.js",
+  "service-worker.js": "/portfolio-app/service-worker.js",
+  "static/css/main.6df1ce5f.chunk.css.map": "/portfolio-app/static/css/main.6df1ce5f.chunk.css.map"
 }

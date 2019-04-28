@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Narender-Dhull/portfolio-app/precache-manifest.ef9382086812d17e1471b5c3ea4b3d19.js"
+  "/portfolio-app/precache-manifest.7a95eea60bd3d826de11002ed11d784a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Narender-Dhull/portfolio-app/index.html", {
+workbox.routing.registerNavigationRoute("/portfolio-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
