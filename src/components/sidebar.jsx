@@ -10,7 +10,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Narender Kumar</a></h1>
-              <span class="position"><a href="https://drive.google.com/open?id=1DDgQXsf-u4AbF02T1zgvNjQqgoDhzFk-" target="_blank">Full Stack Developer</a></span>
+              <span class="position"><a href="https://drive.google.com/drive/u/1/folders/1iorZ58u9VG2Q7_iI5lSffW7vSCxAxY0k" target="_blank">Full Stack Developer</a></span>
               <span className="email"><i className="icon-mail"></i>narender.dhull@hotmail.co.uk</span>
               <span className="number"><i className="icon-phone"></i>+91-999-613-6315</span>
             </div>
