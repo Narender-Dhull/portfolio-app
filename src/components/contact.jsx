@@ -48,7 +48,7 @@ export default class Contact extends Component {
 									<i class="icon-download"></i>
 								</div>
 								<div class="colorlib-text">
-                  <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/open?id=1DDgQXsf-u4AbF02T1zgvNjQqgoDhzFk-" target="_blank">Download Resume <i className="icon-download4" /></a></p>
+                  <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/open?id=1DDgQXsf-u4AbF02T1zgvNjQqgoDhzFk-" target="_blank">Download resume <i className="icon-download4" /></a></p>
 								</div>
 							 </div>
 							</div>								
